@@ -1,0 +1,3 @@
+pilot:
+  nodeSelector:
+    doks.digitalocean.com/node-pool: pool-gocd-agent-nodes
